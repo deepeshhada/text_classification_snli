@@ -1,1 +1,1 @@
-# text_classification_snli
+# IISc_DL_Project3_SNLI
